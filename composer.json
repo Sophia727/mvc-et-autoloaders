@@ -1,0 +1,16 @@
+{
+    "name": "hp/vente",
+    "description": "projet test pour autoloaders et mvc et namespace",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Vente\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophia",
+            "email": "sophiatoukram@gmail.com"
+        }
+    ],
+    "require": {}
+}
